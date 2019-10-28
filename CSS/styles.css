@@ -1,0 +1,23 @@
+body {
+  background-color: #32a8a2;
+}
+
+h1 {
+  color: white;}
+
+p{color: white;}
+
+h2{color: white;}
+
+div#main {
+  background-color: orange;
+  width: 100%;
+
+}
+
+div#title {text-align: center;font-size: 32px;
+background-color: grey}
+
+div#container {background-color: grey}
+
+div.section {color: white; background-color: black;font-size: 14px; width: 33.3%}
